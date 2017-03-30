@@ -1,0 +1,36 @@
+body 
+    {background-color: blue;
+    	margin: 0;
+}
+
+header{
+     background-color: #00664D;
+     padding: 10px;
+     width: 900px;
+     margin: 0 auto;
+     text-align: center;
+     color: white;
+
+}     
+
+
+nav{  
+	width: 366px;
+	margin: 0 auto;
+	background-color: blue ;
+
+}
+
+nav a{
+	display: inline-block;
+	background-color: yellow ;
+	padding: 10px;
+	text-decoration: white ;
+	color: black ;
+	width: 250px;
+
+
+}
+
+
+	c
